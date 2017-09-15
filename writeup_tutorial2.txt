@@ -1,0 +1,19 @@
+Nama: Jessica Susanto
+Kelas: PSP A
+NPM: 1506757655
+
+Latihan Project Hello World
+1. Tidak compile error namun whitelabel Error page / 404 not found karena tidak ada controller yang dapat menghandel error tersebut
+2. Tidak karena hanya nama method yang diganti
+3. Tidak compile error namun whitelable error page. String yang direturn tersebut menandakan apabila masuk ke method dari controller tersebut, maka akan di redirect ke html pada return.
+
+Latihan Request Parameter
+1. Muncul html berisi Selamat datang chanek
+2. Muncul html berisi Selamat datang chanek
+Setelah header diganti muncul html berisi Selamat datang null.
+3. Muncul html berisi Selamat datang dunia
+4. Sapaan untuk user tidak pernah muncul  karena sudah direplace oleh th:text
+
+Latihan Path Variable
+1. Muncul html berisi Selamat datang dunia
+2. Muncul html berisi Selamat datang chanek
